@@ -1,3 +1,27 @@
+**Frontend**
+
+Applied Javascript
+
+Intro to React
+
+Single Page Applications
+
+Advanced React
+
+Advanced State Management
+
+Advanced Web Applications
+
+**Backend**
+
+Building RESTful APIs with Express
+
+Adding Data Persistence
+
+Authentication and Testing
+
+=====
+
 # Intro to React Sprint Challenge
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
